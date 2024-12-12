@@ -32,11 +32,17 @@ Follow these steps to get the project up and running:
 
 1. **Clone the Repository**:
     
-    git clone (<your-repository-url>)
-    cd (<your-repository-folder>)
    
+    ```sh
+   
+    git clone (<your-repository-url>)
+    ```
+ ```sh
+   cd (<your-repository-folder>)
+    ```
 
-2. **Install the Required Libraries**:
+
+3. **Install the Required Libraries**:
     Use pip to install the necessary libraries:
   
     pip install -r requirements.txt
