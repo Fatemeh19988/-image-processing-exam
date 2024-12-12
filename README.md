@@ -64,16 +64,16 @@ Once everything is set up, you can proceed with the following steps:
 Here are some examples of what the processed images will look like:
 
 ### Original Image
-![Original Image](C:/Users/pc/Desktop/original_image.jpg)
+![Original Image]((https://github.com/Fatemeh19988/-image-processing-exam/blob/main/IMAGE/image.jpg))
 
 ### Grayscale Image
-![Grayscale Image](C:/Users/pc/Desktop/grayscale_image.jpg)
+![Grayscale Image](https://github.com/Fatemeh19988/-image-processing-exam/blob/main/IMAGE/grayscale_image.jpg)
 
 ### Resized Image
-![Resized Image](C:/Users/pc/Desktop/resized_image.jpg)
+![Resized Image](https://github.com/Fatemeh19988/-image-processing-exam/blob/main/IMAGE/resized_sample.jpg)
 
 ### Blurred Image
-![Blurred Image](C:/Users/pc/Desktop/blurred_image.jpg)
+![Blurred Image](https://github.com/Fatemeh19988/-image-processing-exam/blob/main/IMAGE/blurred_sample.jpg)
 
 
 
