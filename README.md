@@ -1,1 +1,1 @@
-# -image-processing-exam
+# image-processing-exam
