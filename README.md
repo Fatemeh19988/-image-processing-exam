@@ -64,7 +64,7 @@ Once everything is set up, you can proceed with the following steps:
 Here are some examples of what the processed images will look like:
 
 ### Original Image
-![Original Image]((https://github.com/Fatemeh19988/-image-processing-exam/blob/main/IMAGE/image.jpg))
+![Original Image](https://github.com/Fatemeh19988/-image-processing-exam/blob/main/IMAGE/image.jpg)
 
 ### Grayscale Image
 ![Grayscale Image](https://github.com/Fatemeh19988/-image-processing-exam/blob/main/IMAGE/grayscale_image.jpg)
