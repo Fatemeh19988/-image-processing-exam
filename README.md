@@ -32,8 +32,8 @@ Follow these steps to get the project up and running:
 
 1. **Clone the Repository**:
     
-    git clone <your-repository-url>
-    cd <your-repository-folder>
+    git clone (<your-repository-url>)
+    cd (<your-repository-folder>)
    
 
 2. **Install the Required Libraries**:
