@@ -37,7 +37,7 @@ Follow these steps to get the project up and running:
    
     git clone (<your-repository-url>)
     ```
- ```sh
+    ```sh
    cd (<your-repository-folder>)
     ```
 
